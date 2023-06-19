@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FlorenciaLupia
-- 👀 I’m interested in learning programation
-- 📫 How to reach me florencialupia@gmail.com
+ 👋 Hi, I’m @FlorenciaLupia, Junior Programmer with a background in Community Management and Digital Marketing, seeking new challenges.
+ 📫 How to reach me florencialupia@gmail.com
 
 <!---
 FlorenciaLupia/FlorenciaLupia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
