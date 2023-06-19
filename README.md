@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FlorenciaLupia
 - 👀 I’m interested in learning programation
-- 🌱 I’m currently learning  React
 - 📫 How to reach me florencialupia@gmail.com
 
 <!---
